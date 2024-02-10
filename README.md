@@ -1,6 +1,6 @@
 # Personal Portfolio - Next.js 14, Tailwind CSS, DaisyUI
 
-This is a personal portfolio website built with Next.js 14, Tailwind CSS, and DaisyUI. It showcases the front-end development skills and projects of the developer.
+Welcome to my personal portfolio! 🚀 This website is crafted with the latest technologies, including Next.js 14, Tailwind CSS, and DaisyUI. Here, you'll get a glimpse of my front-end development skills and explore some exciting projects I've worked on. Enjoy your stay! 🌟
 
 ## Features
 
@@ -37,4 +37,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Your Name
+Ibrahim Amin
