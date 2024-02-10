@@ -1,4 +1,6 @@
 import React from 'react'
+import { HiDocumentDownload } from 'react-icons/hi'
+import { TiDownload, TiDownloadOutline } from 'react-icons/ti'
 
 const Hero = () => {
     return (
@@ -23,6 +25,14 @@ const Hero = () => {
                         am progressively transforming my aspirations into a
                         tangible reality.
                     </p>
+                    <a
+                        href='Ibrahim Amin.pdf'
+                        download
+                        className='btn btn-primary btn-wide group'
+                    >
+                        <TiDownload className='text-xl group-hover:scale-125 group-hover:rotate-12 duration-300' />
+                        CV
+                    </a>
                 </div>
             </div>
         </section>
