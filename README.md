@@ -1,4 +1,4 @@
-# Personal Portfolio - Next.js 14, Tailwind CSS, DaisyUI
+# Personal Portfolio 🚀 - Next.js 14, Tailwind CSS, DaisyUI
 
 Welcome to my personal portfolio! 🚀 This website is crafted with the latest technologies, including Next.js 14, Tailwind CSS, and DaisyUI. Here, you'll get a glimpse of my front-end development skills and explore some exciting projects I've worked on. Enjoy your stay! 🌟
 

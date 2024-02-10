@@ -19,7 +19,7 @@ function Footer() {
                             <TiSocialTwitter className='text-4xl text-blue-500 hover:scale-125 hover:rotate-12 duration-300' />
                         </a>
                         <a
-                            href='https://linkedin.com/in/ibrahim-youssef391'
+                            href='https://linkedin.com/in/ibrahim-amin391'
                             className='bg-neutral-content shadow-xl p-1 mx-2 rounded-full'
                         >
                             <TiSocialLinkedin className='text-4xl text-blue-700 hover:scale-125 hover:rotate-12 duration-300' />

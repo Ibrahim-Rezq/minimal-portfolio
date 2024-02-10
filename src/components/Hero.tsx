@@ -9,14 +9,19 @@ const Hero = () => {
                         Ibrahim
                     </h1>
                     <h2 className='text-base md:text-xl mb-3 font-medium'>
-                        Software Engineer & Web Developer
+                        Front-end Web Developer
                     </h2>
                     <p className='text-sm max-w-xl mb-6 font-bold'>
-                        Provident cupiditate voluptatem et in. Quaerat fugiat ut
-                        . In deleniti id nisi.
-                        <br /> Provident cupiditate voluptatem et in. Quaerat
-                        fugiat ut assumenda excepturi exercitationem quasi. In
-                        deleniti eaque aut repudiandae et a id nisi.
+                        Through multiple projects, I have refined my abilities
+                        as a solo front-end developer to craft user-friendly
+                        interfaces.
+                        <br />
+                        My goal is to establish my own digital realm, and I am
+                        continuously challenging myself at every stage, from
+                        planning and designing to resolving real-world coding
+                        problems. By displaying determination and commitment, I
+                        am progressively transforming my aspirations into a
+                        tangible reality.
                     </p>
                 </div>
             </div>
